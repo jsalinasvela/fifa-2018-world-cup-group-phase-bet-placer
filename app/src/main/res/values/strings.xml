@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">oddsApiTester</string>
+    <string name="app_title">¿Cuánto quieres perder?</string>
+    <string name="map_msg">Te mostramos la ubicación de donde se realizará el partido en el que apostaste:</string>
+    <string name="spinner_title">Selecciona un partido</string>
+    <string name="title_activity_map">Map</string>
+    <color name="thirdThirdUsernameColor">#aebcf6</color>
+    <color name="selectedEventBackground">#1373ac</color>
+    <color name="unselectedEventBackground">#ffffff</color>
+</resources>
